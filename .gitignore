@@ -12,3 +12,7 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Content/Characters
+Content/Cursor
+Content/LevelPrototyping
+Content/TopDown
